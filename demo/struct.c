@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
-
+/**
+ * 结构体  对象描述的解决提供 类似java的对象
+ */
 struct Books
 {
 	char title[50];
